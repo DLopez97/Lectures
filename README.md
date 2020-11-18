@@ -1,4 +1,4 @@
-# This is the page for the Lectures for Big Data and Machine Learning for Applied Economics at the ECON 4676  
+# This is the page for the Lectures for Big Data and Machine Learning for Applied Economics (ECON 4676)
 ### Check the Syllabus [here](https://github.com/ECON-4676-UNIANDES/Syllabus)
 
 
@@ -47,3 +47,16 @@
 20. Lecture 20 \[[Slides](https://github.com/ECON-4676-UNIANDES/Lectures/blob/master/Lecture20/Lecture20.pdf)\] [[Link Recording Zoom Class](https://www.dropbox.com/sh/iieapsgregmxmmc/AABgUeNUTHx-iGz3wW3Ox-9Fa?dl=0)\]
 
 21. Lecture 21 \[[Slides](https://github.com/ECON-4676-UNIANDES/Lectures/blob/master/Lecture21/Lecture21.pdf)\] [[Link Recording Zoom Class](https://www.dropbox.com/sh/6rhiqu296sgtfie/AACVHJ7omt-MraI3T8qLDS2Ba?dl=0)\]
+
+22. Lecture 22 \[[Slides](https://github.com/ECON-4676-UNIANDES/Lectures/blob/master/Lecture22/Lecture22.pdf)\] [[Link Recording Zoom Class](https://www.dropbox.com/sh/c45hss7gbuhw48e/AABrpxIwxt0g3OxeQWMOun50a?dl=0)\]
+
+23. Lecture 23 \[[Slides](https://github.com/ECON-4676-UNIANDES/Lectures/blob/master/Lecture23/Lecture23.pdf)\] [[Link Recording Zoom Class](https://www.dropbox.com/sh/gjy4unssdq9w6tx/AAAVi_r0liPePsYHojS_P3Nia?dl=0)\]
+
+24. Lecture 24 \[[Slides](https://github.com/ECON-4676-UNIANDES/Lectures/blob/master/Lecture24/Lecture24.pdf)\] [[Link Recording Zoom Class](https://www.dropbox.com/sh/atx3hobuqvywt7n/AADjZwc17grX5xMVoBVLVuAma?dl=0)\]
+
+25. Lecture 25 \[[Slides](https://github.com/ECON-4676-UNIANDES/Lectures/blob/master/Lecture25/Lecture25.pdf)\] [[Link Recording Zoom Class](https://www.dropbox.com/sh/sg0namzz4hhpk36/AAAEyzFqPfEa62toYRLvZNE3a?dl=0)\]
+
+26. Lecture 26 \[[Slides](https://github.com/ECON-4676-UNIANDES/Lectures/blob/master/Lecture26/Lecture26.pdf)\] [[Link Recording Zoom Class](https://www.dropbox.com/sh/t1oqqug2g73edc0/AADmZISOyPE2SCaXMSNgwoLXa?dl=0)\]
+
+27. Lecture 27 \[[Slides](https://github.com/ECON-4676-UNIANDES/Lectures/blob/master/Lecture27/Lecture27.pdf)\] [[Link Recording Zoom Class](https://www.dropbox.com/sh/h3yplh0btslz5oh/AABWOdChj-1M5lXdsxz_k4I3a?dl=0)\]
+
